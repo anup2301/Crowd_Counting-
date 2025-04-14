@@ -1,0 +1,6 @@
+
+path: C:\Machine_Learning\Scripts\A2\frame\yolo_dataset
+train: images/train
+val: images/val
+nc: 1
+names: ['person']
